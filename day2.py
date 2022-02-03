@@ -54,4 +54,3 @@ these r called loop control statments"""
 #         continue
 #     print(i)
 
-"""day 2"""
