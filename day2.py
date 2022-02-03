@@ -53,3 +53,5 @@ these r called loop control statments"""
 #     if(i==5):
 #         continue
 #     print(i)
+
+"""day 2"""
