@@ -47,5 +47,10 @@ d={"name":["EswarPavan","Eswar"],"followers":15800,"platform":"YouTube",23:{"age
 # d.update({"hobby":"Painting"})
 # print(d)
 
-del d["name"][1]
-print(d)
+# del d["name"][1]
+# print(d)
+
+# del d
+
+# d.clear()
+
