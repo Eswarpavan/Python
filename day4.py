@@ -19,7 +19,7 @@
 # print(s.capitalize())
 
 """dictionary"""
-d={"name":"EswarPavan","followers":15800,"platform":"YouTube"}
+#d={"name":"EswarPavan","followers":15800,"platform":"YouTube"}
 
 """
 keys: name, followers, platform
@@ -37,7 +37,7 @@ value:EswarPavan, 15800, YouTube
 # d1={"name":"EswarPavan","followers":15800,"platform":"YouTube","name":"Eswar"}
 # print(d1.keys())
 # print(d1.values())
-d={"name":["EswarPavan","Eswar"],"followers":15800,"platform":"YouTube",23:{"age":23}}
+#d={"name":["EswarPavan","Eswar"],"followers":15800,"platform":"YouTube",23:{"age":23}}
 #print(d.values())
 
 # print(d[23]['age'])
